@@ -1,0 +1,21 @@
+/*.rChart {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 400px;
+}
+
+.datamaps {
+    position: relative;
+}
+*/
+.datamaps-legend dl {
+	display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: column nowrap;
+   flex-flow: column nowrap;
+}
